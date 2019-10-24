@@ -1,0 +1,96 @@
+nav{ 
+    background-color: chocolate;
+    height: 100px;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    height: 100%;
+    align-items: center;
+     }
+nav a{
+    
+        text-decoration: none;
+        color: black ;
+        border: solid 1px black;
+        padding: 20px; 
+        background-color: cornflowerblue;
+        border-radius: 20px 10px;
+    }   
+
+body{
+
+    background-color: cornflowerblue;
+}
+*{
+    margin : 0px;
+    padding : 0px;
+}
+
+.ps4{
+    margin : 5px;
+    padding : 0px;
+    color : rgb(214, 13, 13) ;
+    
+}
+.jeuxps{
+    display : flex ;
+    justify-content: space-evenly;
+
+}
+
+.xbox{
+    margin : 5px;
+    padding : 0px;
+    color: rgb(13, 56, 4);
+}
+.jeuxxbox {
+    display : flex ;
+    justify-content :space-evenly;
+}
+.switch{
+    margin : 5px;
+    padding : 0px;
+    color: rgb(73, 69, 4);
+}
+.jeuxswitch {
+    display : flex ;
+    justify-content :space-evenly;
+
+}
+.pc{
+    margin : 5px;
+    padding : 0px;
+    color: rgb(155, 7, 192);
+}
+.jeuxpc {
+    display : flex ;
+    justify-content :space-evenly;    
+}
+.titre {
+    display : flex ;
+    justify-content :center;
+}
+footer{
+
+    display : flex ;
+    justify-content :center;
+    background-color: chocolate;
+    
+}
+.styleform{
+    margin : 5px;
+    padding : 0px;
+    color : rgb(233, 10, 10) ;
+    justify-content :center;
+
+}
+.evenement{
+    color: maroon;
+}
+.modif {
+    display: none;
+    }
+
+    
